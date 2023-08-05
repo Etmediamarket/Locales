@@ -1,0 +1,22 @@
+{
+    "title": "",
+    "subtitle": "",
+    "fullName_label": "",
+    "fullName_required_error": "",
+    "phoneNumber_label": "",
+    "phoneNumber_required_error": "",
+    "email_label": "",
+    "email_required_error": "",
+    "password_label": "",
+    "password_required_error": "",
+    "terms_agreement": "",
+    "terms_agreement_connector": "",
+    "terms_agreement_error": "",
+    "signUp_button": "",
+    "login_link": "",
+    "privacy_policy_link_text": "",
+    "privacy_policy_link_url": "",
+    "terms_of_service_link_text": "",
+    "terms_of_service_link_url": "",
+    "already_have_account": ""
+}

@@ -1,0 +1,22 @@
+{
+    "title": "Welcome to Etsomart",
+    "subtitle": "To protect and help you sell or buy safely, please create an account!",
+    "fullName_label": "Full Name",
+    "fullName_required_error": "Full name required",
+    "phoneNumber_label": "Phone Number",
+    "phoneNumber_required_error": "Phone number required",
+    "email_label": "Email",
+    "email_required_error": "Email required",
+    "password_label": "Password",
+    "password_required_error": "Password required",
+    "terms_agreement": "By checking this box, you confirm that you have read and are agreeing to our",
+    "terms_agreement_connector": "in regards to handling your data and our",
+    "terms_agreement_error": "You must agree to the terms and privacy policy.",
+    "signUp_button": "Sign Up",
+    "login_link": "Login",
+    "privacy_policy_link_text": "privacy policy",
+    "privacy_policy_link_url": "/privacy-policy",
+    "terms_of_service_link_text": "terms of service",
+    "terms_of_service_link_url": "/terms-of-service",
+    "already_have_account": "Already have an account ?"
+}

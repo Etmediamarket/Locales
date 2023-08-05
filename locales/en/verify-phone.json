@@ -1,0 +1,8 @@
+{
+  "verify_phone_title": "Verify Your Phone",
+  "verify_phone_description": "Enter the verification code that has been sent to your mobile number",
+  "verify_button": "Verify",
+  "resend_button": "Resend",
+  "try_code_resend_in": "Try code resend in",
+  "didnt_receive_code": "Didn't receive the code ?"
+}

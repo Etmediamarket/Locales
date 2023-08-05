@@ -1,0 +1,15 @@
+{
+  "title": "My Orders",
+  "orderId": "Order ID",
+  "orderChannel": "Order Channel",
+  "date": "Date",
+  "totalPrice": "Total Price",
+  "paymentStatus": "Payment Status",
+  "orderStatus": "Order Status",
+  "tab1": "Orders",
+  "tab2": "Delivered",
+  "tab3": "Declined",
+  "noOrderTitle": "No Orders Found",
+  "noOrderSubtitle": "It looks like you haven't placed any orders yet. When you do, their status will appear here.",
+  "noOrderButton": "Back to Shopping"
+}

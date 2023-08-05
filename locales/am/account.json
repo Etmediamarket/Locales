@@ -1,0 +1,19 @@
+{
+  "title": "",
+  "tab1": "",
+  "tab2": "",
+  "fullNameLabel": "",
+  "fullNameError": "",
+  "emailLabel": "",
+  "emailError": "",
+  "phoneNumberLabel": "",
+  "phoneNumberError": "",
+  "updateProfileButton": "",
+  "currentPassLable": "",
+  "newPassLable": "",
+  "confirmPassLable": "",
+  "currentPassError": "",
+  "newPassError": "",
+  "confirmPassError": "",
+  "changePassButton": ""
+}

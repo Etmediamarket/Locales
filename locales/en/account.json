@@ -1,0 +1,19 @@
+{
+  "title": "Account",
+  "tab1": "Profile Update",
+  "tab2": "Change Password",
+  "fullNameLabel": "Full Name",
+  "fullNameError": "Full Name is required",
+  "emailLabel": "Email",
+  "emailError": "Email is required",
+  "phoneNumberLabel": "Phone Number",
+  "phoneNumberError": "Phone Number is required",
+  "updateProfileButton": "Update Profile",
+  "currentPassLable": "Current Password",
+  "newPassLable": "New Password",
+  "confirmPassLable": "Confirm Password",
+  "currentPassError": "Current password required",
+  "newPassError": "New password required",
+  "confirmPassError": "Confirm password required",
+  "changePassButton": "Change Password"
+}

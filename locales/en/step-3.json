@@ -1,0 +1,9 @@
+{
+  "title": "3.Contact Detail",
+  "subTitle": "These are the detail we will use to contact you.",
+  "lable_contactName": "Contact Name",
+  "lable_phoneNo": "Phone Number",
+  "lable_secondaryPhoneNo": "Secondary Phone Number",
+  "lable_tgUsername": "Telegram Username",
+  "nextButton": "Next"
+}

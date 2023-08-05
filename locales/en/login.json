@@ -1,0 +1,13 @@
+{
+    "title": "Welcome Back",
+    "subtitle": "To protect and help you sell or buy safely, please login with your account",
+    "label_email": "Email",
+    "label_password": "Password",
+    "email_required_error": "Email required",
+    "password_required_error": "Password required",
+    "forget_password_link": "Forget Password?",
+    "login_button": "Login",
+    "no_account_text": "Don't have an account?",
+    "sign_up_link": "Sign up"
+
+}
