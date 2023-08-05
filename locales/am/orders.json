@@ -1,15 +1,15 @@
 {
-  "title": "",
-  "orderId": "",
-  "orderChannel": "",
-  "date": "",
-  "totalPrice": "",
-  "paymentStatus": "",
-  "orderStatus": "",
-  "tab1": "",
-  "tab2": "",
-  "tab3": "",
-  "noOrderTitle": "",
-  "noOrderSubtitle": "",
-  "noOrderButton": ""
+  "title": "የእኔ ትዕዛዞች",
+  "orderId": "የትዕዛዝ ቁጥር",
+  "orderChannel": "የትዕዛዝ ጣቢያ",
+  "date": "ቀን",
+  "totalPrice": "ጠቅላላ ዋጋ",
+  "paymentStatus": "የክፍያ ሁኔታ",
+  "orderStatus": "የትዛዝ ሁኔታ",
+  "tab1": "ትዕዛዞች",
+  "tab2": "ደርሶአል",
+  "tab3": "ተክልክሏል",
+  "noOrderTitle": "ምንም ትዕዛዝ አልተገኘም",
+  "noOrderSubtitle": "እስካሁን ምንም ዓይነት ትዕዛዝ አልፈጸሙም። ስትፈጽሙ ደረጃቸው እዚህ ላይ ይታያል።",
+  "noOrderButton": "ወደ ገበያ ተመለስ"
 }

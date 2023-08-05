@@ -1,8 +1,8 @@
 {
-  "verify_phone_title": "",
-  "verify_phone_description": "",
-  "verify_button": "",
-  "resend_button": "",
-  "try_code_resend_in": "",
-  "didnt_receive_code": ""
+  "verify_phone_title": "የእርስዎን ስልክ ያረጋግጡ",
+  "verify_phone_description": "ወደ ተንቀሳቃሽ ቁጥርዎ የተላከውን የማረጋገጫ ኮድ ያስገቡ",
+  "verify_button": "አረጋግጥ",
+  "resend_button": "መልሰህ ላክ",
+  "try_code_resend_in": "ኮድ ከንደገና መላክ ውስጥ ይሞክሩ",
+  "didnt_receive_code": "ኮዱን አልደረስዎትም?"
 }
