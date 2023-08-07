@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "subtitle": "",
-    "label_email": "",
-    "label_password": "",
-    "email_required_error": "",
-    "password_required_error": "",
-    "forget_password_link": "",
-    "login_button": "",
-    "no_account_text": "",
-    "sign_up_link": ""
+    "title": "እንኳን በደህና ተመለሱ",
+    "subtitle": "ደህንነትዎ እንደተጠበቀ ለመሸጥ እና ለመግዛት, እባክዎን ወደ አካውንትዎ ይግቡ",
+    "label_email": "ኢሜይል",
+    "label_password": "የይለፍ ቃል",
+    "email_required_error": "ኢሜል ያስፈልጋል",
+    "password_required_error": "የይለፍ ቃል ያስፈልጋል",
+    "forget_password_link": "የይለፍ ቃል እረስቻለው",
+    "login_button": "ግባ",
+    "no_account_text": "አካውንት የሎትም?",
+    "sign_up_link": "ተመዝገብ"
 }

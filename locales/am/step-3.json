@@ -1,9 +1,9 @@
 {
-  "title": "",
-  "subTitle": "",
-  "lable_contactName": "",
-  "lable_phoneNo": "",
-  "lable_secondaryPhoneNo": "",
-  "lable_tgUsername": "",
-  "nextButton": ""
+  "title": "3. የመረጃ ዝርዝር",
+  "subTitle": "ከአንተ ጋር ለመገናኘት የምንጠቀምባቸው መረጃዎች እነዚህ ናቸው ።",
+  "lable_contactName": "የማግኛ ስም",
+  "lable_phoneNo": "ስልክ ቁጥር",
+  "lable_secondaryPhoneNo": "ሁለተኛ ስልክ ቁጥር",
+  "lable_tgUsername": "የTelegram ተጠቃሚ ስም",
+  "nextButton": "ቀጣይ"
 }
