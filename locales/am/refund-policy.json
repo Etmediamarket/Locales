@@ -1,14 +1,14 @@
 {
-  "refundPolicyTitle": "Refund Policy",
-  "refundPolicyIntro": "At Etsomart, we strive to ensure customer satisfaction and offer refunds under the following circumstances:",
-  "transactionIncompletionTitle": "Transaction Incompletion",
-  "transactionIncompletionContent": "If, for any reason, a transaction cannot be completed, such as when the seller no longer possesses the channel or when there is a potential risk detected by Etsomart, we have the discretion to cancel the transaction.<br/>Should you come across any potential risks during the trading process, do not hesitate to contact us immediately at @Etsomart_Support. We will assist you in promptly canceling the order and issuing a refund.",
-  "productNotAsDescribedTitle": "Product Not-As-Described",
-  "productNotAsDescribedContent": "In the event that the purchased channel does not match its description on the website or malfunctions, you should report the issue to our support team within 24 hours of delivery. Clear evidence must be provided to support the claim. However, complaints based solely on false expectations or wishes of the customer cannot be accepted.<br/>Please note that if the purchased product matches the description upon delivery, your refund request will be denied.",
-  "noRefundCircumstancesTitle": "Additionally, please be aware that no refund will be provided under the following circumstances:",
-  "noRefundCircumstance1": "Project delays caused by lack of communication from your end.",
-  "noRefundCircumstance2": "For digital assets, except for the reasons mentioned above, we do not support refunds, returns, or exchanges once ownership has been transferred to the buyer. Therefore, it is crucial to thoroughly review all information related to the digital asset before making a purchase. Our support team is available to assist you with any questions or concerns.",
-  "noRefundCircumstance3": "Once a digital asset has been purchased and ownership transferred, we cannot reverse the process. Thus, if your channel is terminated, deleted, or hacked after the purchase, we cannot provide a refund. Ensuring the safety of your channel is your responsibility, including taking measures to prevent hacking or deletion.",
-  "noRefundCircumstance4": "We also recommend adhering to all relevant policies and guidelines to avoid the demonetization or suspension of your channel. In particular, consider making old content private or removing it entirely to safeguard your channel's integrity.",
-  "contactSupport": "For any questions or concerns regarding the purchase of a digital asset on our platform, please reach out to our support team. We are more than happy to provide additional information and clarifications to help you make an informed decision."
+  "refundPolicyTitle": "ክፍያ የመመለስ ፖሊሲ",
+  "refundPolicyIntro": "ኤትሶማርት, የደንበኛን እርካታ ለማረጋገጥ በሚከተሉት ሁኔታዎች ውስጥ ገንዘብ ለመመለስ ጥረት እናደርጋለን፡ ",
+  "transactionIncompletionTitle": "የክፍያ አለመጠናቀቅ",
+  "transactionIncompletionContent": "በማንኛውም ምክንያት, ግብይት ሊጠናቀቅ የማይችል ከሆነ, ለምሳሌ ሻጩ ቻናሉ  ከሌለው ወይም በ ኤትሶማርት ሊታወቅ የሚችል አደጋ ሲኖር, የንግድ ልውውጡን ለመሰረዝ የሚያስችል ጥንቃቄ አለን። በግብይት ሥራህ ወቅት ሊያጋጥምህ የሚችል አደጋ ከመጣ @Etsomart_Support ወዲያውኑ ከእኛ ጋር ከመገናኘት ወደኋላ አትበል። ትዕዛዙን ወዲያውኑ በመሰረዝና ክፍያ በመመለስ ረገድ እንረዳሃለን።",
+  "productNotAsDescribedTitle": "ምርቱ እንደተገለጸው ካልሆነ",
+  "productNotAsDescribedContent": "የተገዛው ቻናል በድረ-ገፁ ላይ ከተገለፀው መግለጫ ጋር የማይጣጣም ወይም ችግር ያለው ከሆነ ጉዳዩን በ24 ሰዓታት ውስጥ ለድጋፍ ቡድናችን ሪፖርት ማድረግ ይኖርብዎታል። ይህን ጉዳይ የሚደግፍ ግልጽ ማስረጃ መቅረብ አለብዎት። ይሁን እንጂ በደንበኛው የተሳሳተ ተስፋ ወይም ፍላጎት ላይ ብቻ የተመሠረተ ቅሬታ ተቀባይነት አይኖረውም ። የተገዛው ምርት በዕቃው ላይ ከተገለጸው መግለጫ ጋር የሚስማማ ከሆነ ክፍያ የመመለስ ጥያቄዎ አይስተናገድም።",
+  "noRefundCircumstancesTitle": "በተጨማሪም በሚከተሉት ሁኔታዎች ውስጥ ምንም ዓይነት ገንዘብ አይመለስም",
+  "noRefundCircumstance1": "የሐሳብ ልውውጥ ባለመደረጉ ምክንያት የፕሮጀክቱ መዘግየት።",
+  "noRefundCircumstance2": "ከላይ ከተጠቀሱት ምክንያቶች በስተቀር ለዲጂታል ንብረቶች የባለቤትነት መብት ወደ ገዢው ከተዛወረ በኋላ ክፍያ የመመለስ ችግር አናስተናግድም። ስለዚህ ግዥ ከመደረጉ በፊት ከዲጂታል ንብረት ጋር የተያያዙ መረጃዎችን በሙሉ በጥንቃቄ መከለስ ወሳኝ ነው። የእኛ ድጋፍ ቡድን ማንኛውም ጥያቄ ወይም ስጋት ካልዎት እርስዎን ለመርዳት ዝግጁ ነው.",
+  "noRefundCircumstance3": "አንድ የዲጂታል ሀብት ከተገዛና የባለቤትነት መብት ከተዛወረ በኋላ ሂደቱን መቀየር አንችልም ። ስለዚህ, የእርስዎ ቻናል ከግዢው በኋላ ከተቋረጠ, ወይም ከተደመሰሰ በኋላ ከሆነ, እኛ ክፍያ መመለስ ማቅረብ አንችልም. የቻናሉን ደህንነት ማረጋገጥ የእርስዎ ኃላፊነት ነው, የጠለፋ ወይም የማስወገድ እርምጃዎችን  ጨምሮ.",
+  "noRefundCircumstance4": "በተጨማሪም የቻናሉነ መባረር ወይም ክክፍያ ቦታ ላለማስወገድ ሁሉንም ተያያዥ ፖሊሲዎች እና መመሪያዎች መከተልን እናበረታታለን። በተለይም የቻናልዎን ይዘት ለመጠበቅ አሮጌውን ይዘት የግል ማድረግ ወይም ሙሉ በሙሉ ማስወገድ ሊኖርብዎት ይችላል",
+  "contactSupport": "በእኛ መድረክ ላይ ዲጂታል ሀብት መግዛትን በተመለከተ ማንኛውም ጥያቄ ወይም ስጋት, እባክዎን የእኛን ድጋፍ ቡድን ይግኙ። ጥሩ የሆን ውሳኔ ለማድረግ የሚረዱ ተጨማሪ መረጃዎችንና ማብራሪያዎችን መስጠት ስለምንችል።"
 }
